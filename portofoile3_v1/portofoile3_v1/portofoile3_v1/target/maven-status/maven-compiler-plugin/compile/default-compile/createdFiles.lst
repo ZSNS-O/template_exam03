@@ -1,0 +1,10 @@
+de\thws\portfolio3\frontend\FrontendClient.class
+de\thws\portfolio3\repository\UniversityRepository.class
+de\thws\portfolio3\repository\CourseModuleRepository.class
+de\thws\portfolio3\service\CourseModuleService.class
+de\thws\portfolio3\Portofoile3Application.class
+de\thws\portfolio3\model\CourseModule.class
+de\thws\portfolio3\model\University.class
+de\thws\portfolio3\controller\UniversityController.class
+de\thws\portfolio3\controller\CourseModuleController.class
+de\thws\portfolio3\service\UniversityService.class
