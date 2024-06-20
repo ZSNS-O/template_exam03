@@ -1,3 +1,6 @@
+the code is in this path portofoile3_v1/portofoile3_v1/portofoile3_v1
+
+
 # Portfolio3 Application
 
 ## Overview
